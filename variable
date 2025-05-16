@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#this is a test of variables
+
+a=10
+b=20
+echo "First number is $a" 
+echo "Second number is $b"
+
+echo add  $a+$b
+
